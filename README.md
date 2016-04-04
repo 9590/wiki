@@ -9,4 +9,4 @@ Github issue based blog
 
 # 个人 Wiki
 
-= https://github.com/CodeFalling/blog/wiki/
+- https://github.com/CodeFalling/blog/wiki/
