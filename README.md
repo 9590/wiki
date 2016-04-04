@@ -6,3 +6,7 @@ Github issue based blog
 - https://codefalling.com
 
 - https://github.com/CodeFalling/blog/issues
+
+# 个人 Wiki
+
+= https://github.com/CodeFalling/blog/wiki/
