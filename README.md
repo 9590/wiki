@@ -1,11 +1,6 @@
 # blog
-Github issue based blog
 
-# Link
-
-- https://codefalling.com
-
-- https://github.com/CodeFalling/blog/issues
+Blog move to https://codefalling.com
 
 # 个人 Wiki
 
